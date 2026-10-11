@@ -1,0 +1,5 @@
+age_group,Images,Cancers,Cancer share,% of all training cancers
+40 to 59,866,323,0.373,28.3
+60 and over,1445,760,0.526,66.5
+Under 40,240,59,0.246,5.2
+Unknown,15,0,0.0,0.0

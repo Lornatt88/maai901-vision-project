@@ -1,0 +1,4 @@
+Group,Images,Cancers,Balanced acc,Cancer caught,Cancer caught (0.25),Harmless flagged (0.25)
+female,212,73,0.827,0.781,0.89,0.23
+male,328,158,0.825,0.911,0.968,0.294
+unknown,4,0,1.0,,,0.0

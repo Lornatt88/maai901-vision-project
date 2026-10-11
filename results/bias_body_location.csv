@@ -1,0 +1,7 @@
+Group,Images,Cancers,Balanced acc,Cancer caught,Cancer caught (0.25),Harmless flagged (0.25)
+back,144,77,0.795,0.909,0.987,0.358
+face,67,23,0.752,0.783,0.87,0.227
+lower extremity,100,45,0.837,0.867,0.911,0.218
+other,124,54,0.844,0.907,0.963,0.286
+trunk,52,6,0.873,0.833,0.833,0.174
+upper extremity,57,26,0.775,0.769,0.923,0.258

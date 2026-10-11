@@ -1,0 +1,5 @@
+Group,Images,Cancers,Balanced acc,Cancer caught,Cancer caught (0.25),Harmless flagged (0.25)
+40 to 59,184,68,0.86,0.868,0.897,0.181
+60 and over,294,145,0.862,0.903,0.979,0.262
+Under 40,60,18,0.508,0.611,0.833,0.524
+Unknown,6,0,1.0,,,0.0

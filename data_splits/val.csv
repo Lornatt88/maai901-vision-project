@@ -1,0 +1,543 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,path
+HAM_0001466,ISIC_0031633,bkl,histo,75.0,male,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031633.jpg
+HAM_0001466,ISIC_0027850,bkl,histo,75.0,male,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027850.jpg
+HAM_0000164,ISIC_0029161,bkl,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029161.jpg
+HAM_0000164,ISIC_0026273,bkl,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026273.jpg
+HAM_0007125,ISIC_0025016,bkl,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025016.jpg
+HAM_0007125,ISIC_0029147,bkl,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029147.jpg
+HAM_0005801,ISIC_0029413,bkl,histo,70.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029413.jpg
+HAM_0005801,ISIC_0029576,bkl,histo,70.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029576.jpg
+HAM_0001469,ISIC_0029289,bkl,histo,60.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029289.jpg
+HAM_0001469,ISIC_0029912,bkl,histo,60.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029912.jpg
+HAM_0000746,ISIC_0027023,bkl,histo,60.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027023.jpg
+HAM_0005077,ISIC_0028646,bkl,histo,75.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028646.jpg
+HAM_0002040,ISIC_0033041,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033041.jpg
+HAM_0002040,ISIC_0033900,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033900.jpg
+HAM_0002040,ISIC_0033361,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033361.jpg
+HAM_0000112,ISIC_0033583,bkl,histo,55.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033583.jpg
+HAM_0000112,ISIC_0033465,bkl,histo,55.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033465.jpg
+HAM_0006801,ISIC_0032688,bkl,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032688.jpg
+HAM_0006801,ISIC_0033252,bkl,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033252.jpg
+HAM_0006801,ISIC_0032570,bkl,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032570.jpg
+HAM_0001855,ISIC_0033581,bkl,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033581.jpg
+HAM_0001855,ISIC_0033913,bkl,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033913.jpg
+HAM_0005131,ISIC_0034235,bkl,histo,80.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034235.jpg
+HAM_0005131,ISIC_0034007,bkl,histo,80.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034007.jpg
+HAM_0002372,ISIC_0034303,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034303.jpg
+HAM_0002372,ISIC_0034031,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034031.jpg
+HAM_0002372,ISIC_0033124,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033124.jpg
+HAM_0004555,ISIC_0034259,bkl,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034259.jpg
+HAM_0004555,ISIC_0033446,bkl,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033446.jpg
+HAM_0004555,ISIC_0033200,bkl,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033200.jpg
+HAM_0001562,ISIC_0027713,bkl,histo,80.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027713.jpg
+HAM_0004566,ISIC_0029394,bkl,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029394.jpg
+HAM_0006325,ISIC_0027739,bkl,histo,50.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027739.jpg
+HAM_0003293,ISIC_0029010,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029010.jpg
+HAM_0005693,ISIC_0027781,bkl,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027781.jpg
+HAM_0007332,ISIC_0027780,bkl,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027780.jpg
+HAM_0002078,ISIC_0027042,bkl,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027042.jpg
+HAM_0006769,ISIC_0030721,bkl,histo,85.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030721.jpg
+HAM_0002988,ISIC_0025337,bkl,histo,35.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025337.jpg
+HAM_0005865,ISIC_0030731,bkl,histo,70.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030731.jpg
+HAM_0004928,ISIC_0031424,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031424.jpg
+HAM_0004928,ISIC_0029770,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029770.jpg
+HAM_0002585,ISIC_0027026,bkl,histo,85.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027026.jpg
+HAM_0001546,ISIC_0027584,bkl,histo,45.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027584.jpg
+HAM_0005022,ISIC_0027367,bkl,histo,70.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027367.jpg
+HAM_0004259,ISIC_0026644,bkl,histo,60.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026644.jpg
+HAM_0007110,ISIC_0026861,bkl,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026861.jpg
+HAM_0000898,ISIC_0025529,bkl,histo,80.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025529.jpg
+HAM_0007332,ISIC_0026481,bkl,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026481.jpg
+HAM_0001562,ISIC_0029789,bkl,histo,80.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029789.jpg
+HAM_0004883,ISIC_0031851,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031851.jpg
+HAM_0004883,ISIC_0030436,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030436.jpg
+HAM_0000770,ISIC_0024741,bkl,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024741.jpg
+HAM_0005596,ISIC_0027706,bkl,histo,30.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027706.jpg
+HAM_0005420,ISIC_0024740,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024740.jpg
+HAM_0005420,ISIC_0030649,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030649.jpg
+HAM_0005420,ISIC_0032043,bkl,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032043.jpg
+HAM_0001245,ISIC_0031168,bkl,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031168.jpg
+HAM_0001245,ISIC_0025575,bkl,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025575.jpg
+HAM_0003766,ISIC_0027760,bkl,histo,80.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027760.jpg
+HAM_0003766,ISIC_0026538,bkl,histo,80.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026538.jpg
+HAM_0001809,ISIC_0029897,bkl,histo,80.0,female,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029897.jpg
+HAM_0000207,ISIC_0027451,bkl,histo,75.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027451.jpg
+HAM_0003279,ISIC_0030329,bkl,histo,70.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030329.jpg
+HAM_0004143,ISIC_0029031,bkl,histo,50.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029031.jpg
+HAM_0004010,ISIC_0031061,bkl,histo,60.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031061.jpg
+HAM_0000519,ISIC_0030758,bkl,histo,70.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030758.jpg
+HAM_0006868,ISIC_0031050,bkl,histo,70.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031050.jpg
+HAM_0000425,ISIC_0026947,bkl,histo,50.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026947.jpg
+HAM_0000425,ISIC_0024839,bkl,histo,50.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024839.jpg
+HAM_0002424,ISIC_0028104,bkl,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028104.jpg
+HAM_0002548,ISIC_0027470,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027470.jpg
+HAM_0005865,ISIC_0031522,bkl,histo,70.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031522.jpg
+HAM_0004379,ISIC_0031352,bkl,histo,55.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031352.jpg
+HAM_0001094,ISIC_0031150,bkl,histo,70.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031150.jpg
+HAM_0002548,ISIC_0028656,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028656.jpg
+HAM_0000186,ISIC_0029080,bkl,histo,70.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029080.jpg
+HAM_0004908,ISIC_0031138,bkl,histo,45.0,female,hand,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031138.jpg
+HAM_0004921,ISIC_0025389,bkl,histo,65.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025389.jpg
+HAM_0004908,ISIC_0028710,bkl,histo,45.0,female,hand,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028710.jpg
+HAM_0001486,ISIC_0029384,bkl,histo,40.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029384.jpg
+HAM_0006181,ISIC_0026961,bkl,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026961.jpg
+HAM_0006181,ISIC_0030849,bkl,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030849.jpg
+HAM_0006267,ISIC_0032358,bkl,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032358.jpg
+HAM_0006267,ISIC_0031200,bkl,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031200.jpg
+HAM_0003938,ISIC_0030231,bkl,histo,55.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030231.jpg
+HAM_0006310,ISIC_0031334,bkl,histo,80.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031334.jpg
+HAM_0006732,ISIC_0024336,bkl,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024336.jpg
+HAM_0001721,ISIC_0029040,bkl,histo,40.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029040.jpg
+HAM_0001721,ISIC_0029588,bkl,histo,40.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029588.jpg
+HAM_0001721,ISIC_0031181,bkl,histo,40.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031181.jpg
+HAM_0001721,ISIC_0024947,bkl,histo,40.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024947.jpg
+HAM_0004630,ISIC_0025292,bkl,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025292.jpg
+HAM_0001722,ISIC_0030976,bkl,histo,60.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030976.jpg
+HAM_0004630,ISIC_0028376,bkl,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028376.jpg
+HAM_0004630,ISIC_0026576,bkl,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026576.jpg
+HAM_0004343,ISIC_0028343,bkl,histo,30.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028343.jpg
+HAM_0004383,ISIC_0031261,bkl,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031261.jpg
+HAM_0000846,ISIC_0029115,bkl,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029115.jpg
+HAM_0004832,ISIC_0024709,bkl,histo,65.0,female,hand,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024709.jpg
+HAM_0002193,ISIC_0031000,bkl,histo,85.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031000.jpg
+HAM_0002193,ISIC_0027392,bkl,histo,85.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027392.jpg
+HAM_0004453,ISIC_0031825,bkl,confocal,65.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031825.jpg
+HAM_0004453,ISIC_0030677,bkl,confocal,65.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030677.jpg
+HAM_0005743,ISIC_0025038,bkl,confocal,60.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025038.jpg
+HAM_0003574,ISIC_0024877,bkl,confocal,50.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024877.jpg
+HAM_0003574,ISIC_0030835,bkl,confocal,50.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030835.jpg
+HAM_0000524,ISIC_0026069,bkl,confocal,65.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026069.jpg
+HAM_0000524,ISIC_0026524,bkl,confocal,65.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026524.jpg
+HAM_0006755,ISIC_0025339,bkl,confocal,65.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025339.jpg
+HAM_0003030,ISIC_0028876,bkl,consensus,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028876.jpg
+HAM_0003030,ISIC_0029527,bkl,consensus,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029527.jpg
+HAM_0001529,ISIC_0025103,bkl,consensus,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025103.jpg
+HAM_0001529,ISIC_0025710,bkl,consensus,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025710.jpg
+HAM_0006099,ISIC_0026311,bkl,consensus,55.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026311.jpg
+HAM_0006099,ISIC_0029270,bkl,consensus,55.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029270.jpg
+HAM_0003920,ISIC_0028992,bkl,consensus,55.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028992.jpg
+HAM_0003920,ISIC_0026351,bkl,consensus,55.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026351.jpg
+HAM_0006988,ISIC_0024943,bkl,consensus,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024943.jpg
+HAM_0002821,ISIC_0028479,bkl,consensus,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028479.jpg
+HAM_0006009,ISIC_0026174,bkl,consensus,65.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026174.jpg
+HAM_0006009,ISIC_0027279,bkl,consensus,65.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027279.jpg
+HAM_0005845,ISIC_0025851,bkl,consensus,80.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025851.jpg
+HAM_0006673,ISIC_0033199,bkl,consensus,60.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033199.jpg
+HAM_0006673,ISIC_0032719,bkl,consensus,60.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032719.jpg
+HAM_0000571,ISIC_0032773,bkl,consensus,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032773.jpg
+HAM_0000571,ISIC_0033156,bkl,consensus,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033156.jpg
+HAM_0004245,ISIC_0033701,bkl,consensus,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033701.jpg
+HAM_0004245,ISIC_0033884,bkl,consensus,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033884.jpg
+HAM_0000309,ISIC_0034142,bkl,consensus,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034142.jpg
+HAM_0001186,ISIC_0033391,bkl,consensus,,unknown,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033391.jpg
+HAM_0000948,ISIC_0033631,bkl,consensus,,unknown,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033631.jpg
+HAM_0002371,ISIC_0032271,bkl,consensus,50.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032271.jpg
+HAM_0000382,ISIC_0031897,bkl,consensus,55.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031897.jpg
+HAM_0006912,ISIC_0026205,bkl,consensus,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026205.jpg
+HAM_0005626,ISIC_0031619,bkl,consensus,65.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031619.jpg
+HAM_0005136,ISIC_0024337,bkl,consensus,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024337.jpg
+HAM_0004308,ISIC_0027370,bkl,consensus,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027370.jpg
+HAM_0000716,ISIC_0029801,bkl,consensus,70.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029801.jpg
+HAM_0007395,ISIC_0031133,bkl,consensus,70.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031133.jpg
+HAM_0003726,ISIC_0028503,bkl,consensus,70.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028503.jpg
+HAM_0000865,ISIC_0028826,bkl,consensus,70.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028826.jpg
+HAM_0000121,ISIC_0027025,bkl,consensus,70.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027025.jpg
+HAM_0002034,ISIC_0027954,bkl,consensus,5.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027954.jpg
+HAM_0007393,ISIC_0024850,bkl,consensus,55.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024850.jpg
+HAM_0002043,ISIC_0030160,bkl,consensus,80.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030160.jpg
+HAM_0002965,ISIC_0026446,bkl,consensus,75.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026446.jpg
+HAM_0000974,ISIC_0026262,bkl,consensus,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026262.jpg
+HAM_0002005,ISIC_0026556,bkl,consensus,70.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026556.jpg
+HAM_0002742,ISIC_0025654,bkl,consensus,70.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025654.jpg
+HAM_0007604,ISIC_0027027,bkl,consensus,70.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027027.jpg
+HAM_0005262,ISIC_0030488,bkl,consensus,70.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030488.jpg
+HAM_0000465,ISIC_0030583,bkl,consensus,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030583.jpg
+HAM_0001838,ISIC_0028797,bkl,consensus,75.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028797.jpg
+HAM_0005874,ISIC_0027326,bkl,consensus,75.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027326.jpg
+HAM_0005186,ISIC_0026993,mel,histo,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026993.jpg
+HAM_0001811,ISIC_0028069,mel,histo,35.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028069.jpg
+HAM_0001811,ISIC_0028579,mel,histo,35.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028579.jpg
+HAM_0001726,ISIC_0029281,mel,histo,35.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029281.jpg
+HAM_0001726,ISIC_0024367,mel,histo,35.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024367.jpg
+HAM_0006900,ISIC_0031118,mel,histo,75.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031118.jpg
+HAM_0006900,ISIC_0030080,mel,histo,75.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030080.jpg
+HAM_0004720,ISIC_0027277,mel,histo,40.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027277.jpg
+HAM_0004720,ISIC_0028642,mel,histo,40.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028642.jpg
+HAM_0004126,ISIC_0030060,mel,histo,80.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030060.jpg
+HAM_0004126,ISIC_0030211,mel,histo,80.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030211.jpg
+HAM_0007560,ISIC_0026892,mel,histo,75.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026892.jpg
+HAM_0007560,ISIC_0024987,mel,histo,75.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024987.jpg
+HAM_0006253,ISIC_0030171,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030171.jpg
+HAM_0006253,ISIC_0028291,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028291.jpg
+HAM_0004579,ISIC_0025603,mel,histo,75.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025603.jpg
+HAM_0000531,ISIC_0025674,mel,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025674.jpg
+HAM_0000531,ISIC_0031369,mel,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031369.jpg
+HAM_0007165,ISIC_0029547,mel,histo,80.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029547.jpg
+HAM_0007165,ISIC_0026622,mel,histo,80.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026622.jpg
+HAM_0005084,ISIC_0027261,mel,histo,75.0,male,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027261.jpg
+HAM_0005084,ISIC_0028505,mel,histo,75.0,male,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028505.jpg
+HAM_0005911,ISIC_0028127,mel,histo,70.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028127.jpg
+HAM_0005911,ISIC_0030165,mel,histo,70.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030165.jpg
+HAM_0000059,ISIC_0027033,mel,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027033.jpg
+HAM_0000059,ISIC_0027822,mel,histo,85.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027822.jpg
+HAM_0004102,ISIC_0029726,mel,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029726.jpg
+HAM_0000179,ISIC_0034046,mel,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034046.jpg
+HAM_0000179,ISIC_0032550,mel,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032550.jpg
+HAM_0000179,ISIC_0033700,mel,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033700.jpg
+HAM_0000878,ISIC_0028746,mel,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028746.jpg
+HAM_0002824,ISIC_0034118,mel,histo,25.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034118.jpg
+HAM_0002824,ISIC_0033476,mel,histo,25.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033476.jpg
+HAM_0002824,ISIC_0033047,mel,histo,25.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033047.jpg
+HAM_0002824,ISIC_0025987,mel,histo,25.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025987.jpg
+HAM_0000006,ISIC_0032583,mel,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032583.jpg
+HAM_0000006,ISIC_0034162,mel,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034162.jpg
+HAM_0000006,ISIC_0032187,mel,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032187.jpg
+HAM_0003386,ISIC_0033416,mel,histo,70.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033416.jpg
+HAM_0003386,ISIC_0032662,mel,histo,70.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032662.jpg
+HAM_0003386,ISIC_0033452,mel,histo,70.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033452.jpg
+HAM_0003625,ISIC_0032875,mel,histo,75.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032875.jpg
+HAM_0003625,ISIC_0033802,mel,histo,75.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033802.jpg
+HAM_0003625,ISIC_0033429,mel,histo,75.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033429.jpg
+HAM_0002956,ISIC_0032637,mel,histo,35.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032637.jpg
+HAM_0002956,ISIC_0032993,mel,histo,35.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032993.jpg
+HAM_0005758,ISIC_0033286,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033286.jpg
+HAM_0005758,ISIC_0032586,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032586.jpg
+HAM_0003280,ISIC_0033275,mel,histo,60.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033275.jpg
+HAM_0003280,ISIC_0033938,mel,histo,60.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033938.jpg
+HAM_0003280,ISIC_0032841,mel,histo,60.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032841.jpg
+HAM_0006545,ISIC_0033241,mel,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033241.jpg
+HAM_0006545,ISIC_0032598,mel,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032598.jpg
+HAM_0006545,ISIC_0034289,mel,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034289.jpg
+HAM_0003602,ISIC_0033980,mel,histo,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033980.jpg
+HAM_0003602,ISIC_0032533,mel,histo,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032533.jpg
+HAM_0003602,ISIC_0033986,mel,histo,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033986.jpg
+HAM_0003602,ISIC_0033004,mel,histo,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033004.jpg
+HAM_0004571,ISIC_0033578,mel,histo,65.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033578.jpg
+HAM_0004571,ISIC_0034100,mel,histo,65.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034100.jpg
+HAM_0005628,ISIC_0032940,mel,histo,70.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032940.jpg
+HAM_0005711,ISIC_0033911,mel,histo,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033911.jpg
+HAM_0005711,ISIC_0033779,mel,histo,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033779.jpg
+HAM_0005711,ISIC_0032638,mel,histo,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032638.jpg
+HAM_0005748,ISIC_0032812,mel,histo,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032812.jpg
+HAM_0005748,ISIC_0033619,mel,histo,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033619.jpg
+HAM_0005748,ISIC_0034065,mel,histo,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034065.jpg
+HAM_0004949,ISIC_0033883,mel,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033883.jpg
+HAM_0004949,ISIC_0034145,mel,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034145.jpg
+HAM_0004949,ISIC_0032981,mel,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032981.jpg
+HAM_0007021,ISIC_0033477,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033477.jpg
+HAM_0007021,ISIC_0034092,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034092.jpg
+HAM_0005483,ISIC_0032965,mel,histo,45.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032965.jpg
+HAM_0005483,ISIC_0034242,mel,histo,45.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034242.jpg
+HAM_0005483,ISIC_0033117,mel,histo,45.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033117.jpg
+HAM_0005970,ISIC_0032806,mel,histo,65.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032806.jpg
+HAM_0007574,ISIC_0033624,mel,histo,70.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033624.jpg
+HAM_0007574,ISIC_0033238,mel,histo,70.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033238.jpg
+HAM_0007574,ISIC_0034089,mel,histo,70.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034089.jpg
+HAM_0006189,ISIC_0033269,mel,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033269.jpg
+HAM_0002149,ISIC_0033042,mel,histo,60.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033042.jpg
+HAM_0003566,ISIC_0032684,mel,histo,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032684.jpg
+HAM_0003566,ISIC_0034052,mel,histo,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034052.jpg
+HAM_0003566,ISIC_0033171,mel,histo,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033171.jpg
+HAM_0006802,ISIC_0032610,mel,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032610.jpg
+HAM_0000055,ISIC_0033546,mel,histo,40.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033546.jpg
+HAM_0006097,ISIC_0027306,mel,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027306.jpg
+HAM_0006097,ISIC_0034253,mel,histo,60.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034253.jpg
+HAM_0007583,ISIC_0033081,mel,histo,55.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033081.jpg
+HAM_0005409,ISIC_0032531,mel,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032531.jpg
+HAM_0005409,ISIC_0032970,mel,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032970.jpg
+HAM_0001105,ISIC_0033387,mel,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033387.jpg
+HAM_0001105,ISIC_0025592,mel,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025592.jpg
+HAM_0001105,ISIC_0032552,mel,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032552.jpg
+HAM_0006802,ISIC_0033279,mel,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033279.jpg
+HAM_0006802,ISIC_0032887,mel,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032887.jpg
+HAM_0007583,ISIC_0034205,mel,histo,55.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034205.jpg
+HAM_0007583,ISIC_0033612,mel,histo,55.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033612.jpg
+HAM_0002841,ISIC_0032982,mel,histo,20.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032982.jpg
+HAM_0002841,ISIC_0033196,mel,histo,20.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033196.jpg
+HAM_0002841,ISIC_0032653,mel,histo,20.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032653.jpg
+HAM_0006540,ISIC_0033344,mel,histo,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033344.jpg
+HAM_0006540,ISIC_0032988,mel,histo,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032988.jpg
+HAM_0000799,ISIC_0033611,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033611.jpg
+HAM_0000799,ISIC_0033586,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033586.jpg
+HAM_0000799,ISIC_0033226,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033226.jpg
+HAM_0005953,ISIC_0033534,mel,histo,35.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033534.jpg
+HAM_0005953,ISIC_0032626,mel,histo,35.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032626.jpg
+HAM_0005021,ISIC_0034173,mel,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034173.jpg
+HAM_0005021,ISIC_0033454,mel,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033454.jpg
+HAM_0000169,ISIC_0032960,mel,histo,,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032960.jpg
+HAM_0000169,ISIC_0033708,mel,histo,,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033708.jpg
+HAM_0003176,ISIC_0028148,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028148.jpg
+HAM_0003617,ISIC_0029502,mel,histo,50.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029502.jpg
+HAM_0000433,ISIC_0031554,mel,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031554.jpg
+HAM_0000433,ISIC_0025472,mel,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025472.jpg
+HAM_0005467,ISIC_0024640,mel,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024640.jpg
+HAM_0001986,ISIC_0025512,mel,histo,50.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025512.jpg
+HAM_0001986,ISIC_0024999,mel,histo,50.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024999.jpg
+HAM_0001444,ISIC_0026352,mel,histo,40.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026352.jpg
+HAM_0001444,ISIC_0024688,mel,histo,40.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024688.jpg
+HAM_0000653,ISIC_0024552,mel,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024552.jpg
+HAM_0001378,ISIC_0025313,mel,histo,35.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025313.jpg
+HAM_0005064,ISIC_0028198,mel,histo,40.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028198.jpg
+HAM_0005064,ISIC_0027144,mel,histo,40.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027144.jpg
+HAM_0000888,ISIC_0025085,mel,histo,75.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025085.jpg
+HAM_0000888,ISIC_0031034,mel,histo,75.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031034.jpg
+HAM_0004642,ISIC_0025524,mel,histo,50.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025524.jpg
+HAM_0004642,ISIC_0025963,mel,histo,50.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025963.jpg
+HAM_0004642,ISIC_0025121,mel,histo,50.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025121.jpg
+HAM_0003176,ISIC_0030756,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030756.jpg
+HAM_0004565,ISIC_0027561,mel,histo,70.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027561.jpg
+HAM_0001726,ISIC_0024700,mel,histo,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024700.jpg
+HAM_0002764,ISIC_0030366,mel,histo,60.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030366.jpg
+HAM_0005121,ISIC_0029591,mel,histo,65.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029591.jpg
+HAM_0004637,ISIC_0032036,mel,histo,65.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032036.jpg
+HAM_0005533,ISIC_0027065,mel,histo,85.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027065.jpg
+HAM_0004669,ISIC_0028543,mel,histo,55.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028543.jpg
+HAM_0000563,ISIC_0027900,mel,histo,40.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027900.jpg
+HAM_0006257,ISIC_0029843,mel,histo,70.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029843.jpg
+HAM_0000952,ISIC_0024546,mel,histo,80.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024546.jpg
+HAM_0000952,ISIC_0026009,mel,histo,80.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026009.jpg
+HAM_0000952,ISIC_0030689,mel,histo,80.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030689.jpg
+HAM_0002523,ISIC_0024516,mel,histo,40.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024516.jpg
+HAM_0003055,ISIC_0032420,mel,histo,65.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032420.jpg
+HAM_0000247,ISIC_0025132,mel,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025132.jpg
+HAM_0001397,ISIC_0026796,mel,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026796.jpg
+HAM_0000125,ISIC_0028777,mel,histo,60.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028777.jpg
+HAM_0000125,ISIC_0027964,mel,histo,60.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027964.jpg
+HAM_0005251,ISIC_0026868,mel,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026868.jpg
+HAM_0001657,ISIC_0031529,mel,histo,40.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031529.jpg
+HAM_0000125,ISIC_0032372,mel,histo,60.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032372.jpg
+HAM_0001598,ISIC_0030910,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030910.jpg
+HAM_0001598,ISIC_0029238,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029238.jpg
+HAM_0005121,ISIC_0030423,mel,histo,65.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030423.jpg
+HAM_0001814,ISIC_0029170,mel,histo,65.0,female,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029170.jpg
+HAM_0003957,ISIC_0030653,mel,histo,65.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030653.jpg
+HAM_0001976,ISIC_0026586,mel,histo,85.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026586.jpg
+HAM_0001976,ISIC_0025732,mel,histo,85.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025732.jpg
+HAM_0006594,ISIC_0025195,mel,histo,60.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025195.jpg
+HAM_0002197,ISIC_0028709,mel,histo,50.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028709.jpg
+HAM_0002194,ISIC_0025814,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025814.jpg
+HAM_0002194,ISIC_0026853,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026853.jpg
+HAM_0001814,ISIC_0028567,mel,histo,65.0,female,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028567.jpg
+HAM_0003149,ISIC_0030246,mel,histo,60.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030246.jpg
+HAM_0000513,ISIC_0032207,mel,histo,35.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032207.jpg
+HAM_0003957,ISIC_0031821,mel,histo,65.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031821.jpg
+HAM_0004898,ISIC_0024932,mel,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024932.jpg
+HAM_0004898,ISIC_0029480,mel,histo,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029480.jpg
+HAM_0000517,ISIC_0031005,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031005.jpg
+HAM_0000517,ISIC_0030507,mel,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030507.jpg
+HAM_0005909,ISIC_0026045,mel,histo,65.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026045.jpg
+HAM_0007530,ISIC_0024918,mel,histo,30.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024918.jpg
+HAM_0003520,ISIC_0026516,mel,histo,45.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026516.jpg
+HAM_0003520,ISIC_0025724,mel,histo,45.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025724.jpg
+HAM_0007530,ISIC_0024410,mel,histo,30.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024410.jpg
+HAM_0003534,ISIC_0028493,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028493.jpg
+HAM_0003534,ISIC_0031746,mel,histo,85.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031746.jpg
+HAM_0004219,ISIC_0031585,bcc,histo,45.0,male,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031585.jpg
+HAM_0001610,ISIC_0031166,bcc,histo,75.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031166.jpg
+HAM_0001610,ISIC_0028693,bcc,histo,75.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028693.jpg
+HAM_0004871,ISIC_0030261,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030261.jpg
+HAM_0000065,ISIC_0028085,bcc,histo,50.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028085.jpg
+HAM_0000065,ISIC_0025691,bcc,histo,50.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025691.jpg
+HAM_0003981,ISIC_0025731,bcc,histo,65.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025731.jpg
+HAM_0003981,ISIC_0028670,bcc,histo,65.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028670.jpg
+HAM_0005469,ISIC_0030271,bcc,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030271.jpg
+HAM_0005469,ISIC_0026643,bcc,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026643.jpg
+HAM_0005982,ISIC_0031442,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031442.jpg
+HAM_0005982,ISIC_0026766,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026766.jpg
+HAM_0000463,ISIC_0032415,bcc,histo,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032415.jpg
+HAM_0000463,ISIC_0030177,bcc,histo,70.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030177.jpg
+HAM_0005058,ISIC_0026324,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026324.jpg
+HAM_0005058,ISIC_0025700,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025700.jpg
+HAM_0003328,ISIC_0026453,bcc,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026453.jpg
+HAM_0003328,ISIC_0031489,bcc,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031489.jpg
+HAM_0005998,ISIC_0027058,bcc,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027058.jpg
+HAM_0005998,ISIC_0030114,bcc,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030114.jpg
+HAM_0000823,ISIC_0033271,bcc,histo,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033271.jpg
+HAM_0000823,ISIC_0033575,bcc,histo,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033575.jpg
+HAM_0000823,ISIC_0032894,bcc,histo,75.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032894.jpg
+HAM_0000263,ISIC_0034058,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034058.jpg
+HAM_0000263,ISIC_0033001,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033001.jpg
+HAM_0007471,ISIC_0033483,bcc,histo,45.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033483.jpg
+HAM_0007471,ISIC_0032536,bcc,histo,45.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032536.jpg
+HAM_0003216,ISIC_0034015,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034015.jpg
+HAM_0003216,ISIC_0034223,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034223.jpg
+HAM_0006586,ISIC_0034123,bcc,histo,80.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034123.jpg
+HAM_0006586,ISIC_0034026,bcc,histo,80.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034026.jpg
+HAM_0007248,ISIC_0025102,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025102.jpg
+HAM_0007248,ISIC_0032850,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032850.jpg
+HAM_0007248,ISIC_0030712,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030712.jpg
+HAM_0003039,ISIC_0026350,bcc,histo,30.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026350.jpg
+HAM_0003039,ISIC_0031569,bcc,histo,30.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031569.jpg
+HAM_0006631,ISIC_0027814,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027814.jpg
+HAM_0007474,ISIC_0024848,bcc,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024848.jpg
+HAM_0006844,ISIC_0028688,bcc,histo,60.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028688.jpg
+HAM_0006115,ISIC_0025576,bcc,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025576.jpg
+HAM_0005842,ISIC_0027601,bcc,histo,75.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027601.jpg
+HAM_0001296,ISIC_0028316,bcc,histo,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028316.jpg
+HAM_0000987,ISIC_0025301,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025301.jpg
+HAM_0003851,ISIC_0031643,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031643.jpg
+HAM_0002611,ISIC_0026192,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026192.jpg
+HAM_0002427,ISIC_0031384,bcc,histo,85.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031384.jpg
+HAM_0005547,ISIC_0032439,bcc,histo,65.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032439.jpg
+HAM_0001440,ISIC_0027704,bcc,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027704.jpg
+HAM_0004880,ISIC_0028583,bcc,histo,65.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028583.jpg
+HAM_0004514,ISIC_0030690,bcc,histo,50.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030690.jpg
+HAM_0004495,ISIC_0024743,bcc,histo,65.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024743.jpg
+HAM_0000987,ISIC_0027722,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027722.jpg
+HAM_0002427,ISIC_0027629,bcc,histo,85.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027629.jpg
+HAM_0002017,ISIC_0025630,bcc,histo,60.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025630.jpg
+HAM_0006631,ISIC_0031651,bcc,histo,85.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031651.jpg
+HAM_0005721,ISIC_0027525,bcc,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027525.jpg
+HAM_0005721,ISIC_0024550,bcc,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024550.jpg
+HAM_0005721,ISIC_0029919,bcc,histo,75.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029919.jpg
+HAM_0001693,ISIC_0030868,bcc,histo,80.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030868.jpg
+HAM_0001693,ISIC_0026995,bcc,histo,80.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026995.jpg
+HAM_0001129,ISIC_0030352,bcc,histo,70.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030352.jpg
+HAM_0002258,ISIC_0029220,bcc,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029220.jpg
+HAM_0001237,ISIC_0029680,bcc,histo,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029680.jpg
+HAM_0006658,ISIC_0026154,bcc,histo,85.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026154.jpg
+HAM_0003198,ISIC_0027759,bcc,histo,60.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027759.jpg
+HAM_0006049,ISIC_0031614,bcc,histo,45.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031614.jpg
+HAM_0005856,ISIC_0024984,bcc,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024984.jpg
+HAM_0001390,ISIC_0027920,bcc,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027920.jpg
+HAM_0005856,ISIC_0029857,bcc,histo,55.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029857.jpg
+HAM_0005837,ISIC_0028653,bcc,histo,50.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028653.jpg
+HAM_0007535,ISIC_0024829,bcc,histo,75.0,male,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024829.jpg
+HAM_0005488,ISIC_0024931,bcc,histo,85.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024931.jpg
+HAM_0001390,ISIC_0024411,bcc,histo,75.0,male,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024411.jpg
+HAM_0001369,ISIC_0026957,bcc,histo,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026957.jpg
+HAM_0005026,ISIC_0028978,bcc,histo,40.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028978.jpg
+HAM_0005026,ISIC_0028728,bcc,histo,40.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028728.jpg
+HAM_0001940,ISIC_0028502,nv,follow_up,45.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028502.jpg
+HAM_0003227,ISIC_0029594,nv,follow_up,50.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029594.jpg
+HAM_0003711,ISIC_0024896,nv,follow_up,45.0,male,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024896.jpg
+HAM_0000047,ISIC_0027810,nv,follow_up,50.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027810.jpg
+HAM_0007023,ISIC_0030642,nv,follow_up,50.0,female,genital,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030642.jpg
+HAM_0004623,ISIC_0024746,nv,follow_up,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024746.jpg
+HAM_0004929,ISIC_0029044,nv,follow_up,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029044.jpg
+HAM_0005279,ISIC_0030322,nv,follow_up,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030322.jpg
+HAM_0005454,ISIC_0029184,nv,follow_up,45.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029184.jpg
+HAM_0000642,ISIC_0026520,nv,follow_up,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026520.jpg
+HAM_0005797,ISIC_0027220,nv,follow_up,60.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027220.jpg
+HAM_0007469,ISIC_0030049,nv,follow_up,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030049.jpg
+HAM_0003470,ISIC_0025979,nv,follow_up,35.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025979.jpg
+HAM_0003131,ISIC_0025833,nv,follow_up,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025833.jpg
+HAM_0006956,ISIC_0030547,nv,follow_up,35.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030547.jpg
+HAM_0005066,ISIC_0030787,nv,follow_up,45.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030787.jpg
+HAM_0003781,ISIC_0026225,nv,follow_up,55.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026225.jpg
+HAM_0002250,ISIC_0029426,nv,follow_up,50.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029426.jpg
+HAM_0005474,ISIC_0031398,nv,follow_up,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031398.jpg
+HAM_0000205,ISIC_0029471,nv,follow_up,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029471.jpg
+HAM_0002765,ISIC_0024860,nv,follow_up,55.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024860.jpg
+HAM_0002165,ISIC_0031172,nv,follow_up,55.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031172.jpg
+HAM_0006448,ISIC_0028912,nv,follow_up,50.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028912.jpg
+HAM_0007082,ISIC_0027971,nv,follow_up,55.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027971.jpg
+HAM_0005872,ISIC_0030518,nv,follow_up,65.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030518.jpg
+HAM_0007274,ISIC_0030484,nv,follow_up,65.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030484.jpg
+HAM_0000816,ISIC_0027082,nv,follow_up,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027082.jpg
+HAM_0000094,ISIC_0026233,nv,follow_up,50.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026233.jpg
+HAM_0002341,ISIC_0029117,nv,follow_up,50.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029117.jpg
+HAM_0002583,ISIC_0026572,nv,follow_up,40.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026572.jpg
+HAM_0001483,ISIC_0030752,nv,follow_up,55.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030752.jpg
+HAM_0006919,ISIC_0031724,nv,follow_up,50.0,male,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031724.jpg
+HAM_0007211,ISIC_0025377,nv,follow_up,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025377.jpg
+HAM_0000405,ISIC_0027225,nv,follow_up,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027225.jpg
+HAM_0004718,ISIC_0027589,nv,follow_up,50.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027589.jpg
+HAM_0007615,ISIC_0027417,nv,follow_up,40.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027417.jpg
+HAM_0006494,ISIC_0029714,nv,follow_up,60.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029714.jpg
+HAM_0000315,ISIC_0027474,nv,follow_up,45.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027474.jpg
+HAM_0004250,ISIC_0032499,nv,follow_up,45.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032499.jpg
+HAM_0001054,ISIC_0029006,nv,follow_up,40.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029006.jpg
+HAM_0004901,ISIC_0025361,nv,follow_up,35.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025361.jpg
+HAM_0001459,ISIC_0030529,nv,follow_up,45.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030529.jpg
+HAM_0006087,ISIC_0032094,nv,follow_up,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032094.jpg
+HAM_0002492,ISIC_0028875,nv,follow_up,70.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028875.jpg
+HAM_0000137,ISIC_0027460,nv,follow_up,50.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027460.jpg
+HAM_0000334,ISIC_0026860,nv,follow_up,35.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026860.jpg
+HAM_0000528,ISIC_0028782,nv,follow_up,45.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028782.jpg
+HAM_0007120,ISIC_0029782,nv,follow_up,60.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029782.jpg
+HAM_0001254,ISIC_0030987,nv,follow_up,50.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030987.jpg
+HAM_0003922,ISIC_0027603,nv,follow_up,40.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027603.jpg
+HAM_0000583,ISIC_0029681,nv,follow_up,65.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029681.jpg
+HAM_0000147,ISIC_0024993,nv,follow_up,55.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024993.jpg
+HAM_0004044,ISIC_0028606,nv,follow_up,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028606.jpg
+HAM_0000663,ISIC_0027761,nv,follow_up,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027761.jpg
+HAM_0003169,ISIC_0028867,nv,follow_up,45.0,female,hand,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028867.jpg
+HAM_0003737,ISIC_0024451,nv,follow_up,35.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024451.jpg
+HAM_0002137,ISIC_0030217,nv,follow_up,45.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030217.jpg
+HAM_0004299,ISIC_0031307,nv,follow_up,65.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031307.jpg
+HAM_0003718,ISIC_0025233,nv,follow_up,50.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025233.jpg
+HAM_0001365,ISIC_0026307,nv,follow_up,40.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026307.jpg
+HAM_0003211,ISIC_0029942,nv,follow_up,45.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029942.jpg
+HAM_0002381,ISIC_0030680,nv,follow_up,80.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030680.jpg
+HAM_0006930,ISIC_0027818,nv,follow_up,45.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027818.jpg
+HAM_0003319,ISIC_0026033,nv,follow_up,60.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026033.jpg
+HAM_0004018,ISIC_0028112,nv,follow_up,50.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028112.jpg
+HAM_0002090,ISIC_0032299,nv,follow_up,50.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032299.jpg
+HAM_0003098,ISIC_0030498,nv,follow_up,80.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030498.jpg
+HAM_0002382,ISIC_0025916,nv,follow_up,50.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025916.jpg
+HAM_0007174,ISIC_0031052,nv,follow_up,55.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031052.jpg
+HAM_0003391,ISIC_0030025,nv,follow_up,50.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030025.jpg
+HAM_0007130,ISIC_0027395,nv,follow_up,45.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027395.jpg
+HAM_0005129,ISIC_0027870,nv,follow_up,40.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027870.jpg
+HAM_0002281,ISIC_0031193,nv,follow_up,70.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031193.jpg
+HAM_0003334,ISIC_0030886,nv,follow_up,45.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030886.jpg
+HAM_0006199,ISIC_0024888,nv,follow_up,45.0,female,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024888.jpg
+HAM_0001016,ISIC_0028845,nv,follow_up,35.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028845.jpg
+HAM_0005002,ISIC_0031869,nv,follow_up,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031869.jpg
+HAM_0007436,ISIC_0026878,nv,follow_up,40.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026878.jpg
+HAM_0004486,ISIC_0031448,nv,follow_up,45.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031448.jpg
+HAM_0002395,ISIC_0029750,nv,follow_up,40.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029750.jpg
+HAM_0005851,ISIC_0029804,nv,follow_up,35.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029804.jpg
+HAM_0006083,ISIC_0028178,nv,follow_up,30.0,female,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028178.jpg
+HAM_0000573,ISIC_0024988,nv,follow_up,40.0,female,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024988.jpg
+HAM_0006612,ISIC_0031426,nv,follow_up,40.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0031426.jpg
+HAM_0004380,ISIC_0026251,nv,histo,30.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026251.jpg
+HAM_0004380,ISIC_0029072,nv,histo,30.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029072.jpg
+HAM_0001563,ISIC_0028633,nv,histo,55.0,female,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028633.jpg
+HAM_0005937,ISIC_0027679,nv,histo,35.0,male,foot,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027679.jpg
+HAM_0003327,ISIC_0029430,nv,histo,45.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029430.jpg
+HAM_0003327,ISIC_0027312,nv,histo,45.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027312.jpg
+HAM_0001696,ISIC_0027408,nv,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027408.jpg
+HAM_0001696,ISIC_0030460,nv,histo,80.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030460.jpg
+HAM_0007373,ISIC_0024869,nv,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024869.jpg
+HAM_0007373,ISIC_0024723,nv,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024723.jpg
+HAM_0006080,ISIC_0033347,nv,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033347.jpg
+HAM_0006080,ISIC_0032668,nv,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032668.jpg
+HAM_0006080,ISIC_0032891,nv,histo,40.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032891.jpg
+HAM_0000801,ISIC_0025619,nv,histo,20.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025619.jpg
+HAM_0001218,ISIC_0032864,nv,histo,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032864.jpg
+HAM_0001218,ISIC_0033763,nv,histo,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033763.jpg
+HAM_0001218,ISIC_0033650,nv,histo,35.0,female,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033650.jpg
+HAM_0005331,ISIC_0033803,nv,histo,40.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033803.jpg
+HAM_0005331,ISIC_0032860,nv,histo,40.0,female,neck,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032860.jpg
+HAM_0006559,ISIC_0034247,nv,histo,25.0,female,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034247.jpg
+HAM_0006559,ISIC_0033455,nv,histo,25.0,female,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0033455.jpg
+HAM_0006559,ISIC_0034056,nv,histo,25.0,female,ear,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034056.jpg
+HAM_0003745,ISIC_0029704,nv,histo,30.0,male,abdomen,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029704.jpg
+HAM_0003891,ISIC_0028487,nv,histo,35.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028487.jpg
+HAM_0006020,ISIC_0029572,nv,histo,55.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029572.jpg
+HAM_0000751,ISIC_0025545,nv,histo,30.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025545.jpg
+HAM_0000751,ISIC_0032003,nv,histo,30.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032003.jpg
+HAM_0000025,ISIC_0024349,nv,histo,35.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024349.jpg
+HAM_0000025,ISIC_0026126,nv,histo,35.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026126.jpg
+HAM_0000025,ISIC_0028271,nv,histo,35.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028271.jpg
+HAM_0000129,ISIC_0027486,nv,histo,40.0,female,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027486.jpg
+HAM_0006052,ISIC_0025476,nv,histo,60.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025476.jpg
+HAM_0000347,ISIC_0029665,nv,histo,45.0,male,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029665.jpg
+HAM_0007263,ISIC_0028130,nv,histo,50.0,female,lower extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028130.jpg
+HAM_0004372,ISIC_0026964,nv,histo,65.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026964.jpg
+HAM_0004399,ISIC_0028905,nv,histo,20.0,female,face,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028905.jpg
+HAM_0004372,ISIC_0030167,nv,histo,65.0,male,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030167.jpg
+HAM_0006685,ISIC_0025542,nv,histo,20.0,female,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025542.jpg
+HAM_0006685,ISIC_0027109,nv,histo,20.0,female,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0027109.jpg
+HAM_0006685,ISIC_0029095,nv,histo,20.0,female,scalp,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0029095.jpg
+HAM_0007429,ISIC_0024447,nv,histo,45.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0024447.jpg
+HAM_0005318,ISIC_0029812,nv,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0029812.jpg
+HAM_0005318,ISIC_0026347,nv,histo,75.0,male,back,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0026347.jpg
+HAM_0002572,ISIC_0025422,nv,histo,30.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0025422.jpg
+HAM_0002572,ISIC_0030033,nv,histo,30.0,male,upper extremity,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0030033.jpg
+HAM_0005329,ISIC_0028686,nv,histo,45.0,female,chest,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_1/ISIC_0028686.jpg
+HAM_0002553,ISIC_0032931,nv,consensus,70.0,male,trunk,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032931.jpg
+HAM_0006230,ISIC_0032632,nv,consensus,60.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0032632.jpg
+HAM_0003808,ISIC_0034040,bkl,consensus,40.0,male,unknown,/kaggle/input/skin-cancer-mnist-ham10000/HAM10000_images_part_2/ISIC_0034040.jpg
