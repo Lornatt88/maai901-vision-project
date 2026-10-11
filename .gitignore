@@ -1,0 +1,16 @@
+# Model files (too big for GitHub)
+*.pt
+*.pth
+*.npy
+
+# Secret keys
+kaggle.json
+.env
+
+# Python and Jupyter junk files
+__pycache__/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
